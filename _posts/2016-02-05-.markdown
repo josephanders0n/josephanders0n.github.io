@@ -1,0 +1,15 @@
+---
+published: true
+title: Blog currently in Limbo
+layout: post
+---
+For some reason GitHub suspects that I am a Robot. Until I can prove my humanity to the GitHub overlords, this blog won't function properly:
+
+> One of our mostly harmless robots seems to think you are not a human.
+> Because of that, it’s hidden your profile from the public.
+> If you really are human, please contact support to have your profile reinstated.
+> We promise we won’t require DNA proof of your humanity.
+
+
+
+This is the first time I've ever had my humanity called into question, and by a bot no less. What can you do? Still, I'm hopeful that the support team responds quickly and releases my account so I can get on with writing the best blog evah!
