@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://josephanders0n.github.io
+title: Joseph Anderson's C++ Blog
+email: josephanderson@scramble.io
+author: Joseph Anderson
+description: Exploring C++, one feature at a time.
+paginate: 3
+google_analytics: 
