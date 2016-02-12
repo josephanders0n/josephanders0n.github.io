@@ -1,1 +1,1 @@
-CSS files  for my [Blog](httsp://josephanders0n.github.io).
+CSS files  for my [Blog](https://josephanders0n.github.io).
