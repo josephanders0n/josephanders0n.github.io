@@ -2,6 +2,7 @@
 published: true
 title: Initial Post
 layout: post
+categories: [meta]
 ---
 Hello, 
 
