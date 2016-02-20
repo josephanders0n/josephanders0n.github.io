@@ -17,7 +17,7 @@ String views solve this problem by essentially wrapping the iterator pair into a
 
 The real kicker is the fact that string views allow the programmer to write efficient code *without* having to think too much about it. As long as one understands what a string view is and what it represents, writing code with string views is a simple as with strings.
 
-## Is it safe? ##
+## Is it Safe? ##
 Okay, so the string view doesn't own the memory. Won't this lead to segfaults and security issues. Well, if you don't know what you're doing, yes that can happen. It's the exact same situation with the iterator solution though, or for any use of iterator use in general.
 
 String views are meant to be used as temporary objects for string manipulation, and when used as such they are perfectly safe. When you try to use them to store data, you will get a not so funny surprise. In order to avoid problems, treat the string view like a reference to a string object, not an object itself. Since any decent C++ programmer should be acquainted with references and how they work, I really don't see a big safety concern.
