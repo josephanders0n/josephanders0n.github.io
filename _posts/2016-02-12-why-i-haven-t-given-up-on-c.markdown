@@ -2,6 +2,7 @@
 published: true
 title: Why I haven't given up on C++
 layout: post
+categories: [debate]
 ---
 I've recently come across [this article](http://dorinlazar.ro/the-day-i-gave-up-on-cpp/) in which the author attempts to outline why he is no longer using C++. I figured it would be a good idea for me to consider each of his points and state why I either agree with them or not. I may even have learned something along the way.
 
