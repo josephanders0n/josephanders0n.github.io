@@ -3,6 +3,7 @@ published: true
 title: String View
 layout: post
 tags: [string, safety, ownership, raii]
+categories: [proposal]
 ---
 My favorite proposal for the C++17 standard is [string_view](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2013/n3762.html). If accepted it adds a new type to the standard library which describes a string but doesn't own the memory containing the string data. What's the point one might ask, and oh, isn't this unsafe?
 
