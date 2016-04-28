@@ -1,0 +1,12 @@
+---
+published: true
+title: I want C++17 Now!
+layout: post
+---
+I know, I know, we don't even have proper working implementations of C++14 and there are a lot of proposals. These things take time, I know, I know.
+
+But I must say, whenever I read one of the proposals, I just think: Fuck yeah, we need this. It really triggers my Autism. It annoys me I have to wait so long.
+
+Still, better wait a while and get a proper standard than rush it and end up with unusable crap.
+
+Disclaimer: There really is no substance in this post. I'm just venting.
